@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matteo Olivato and i'm currently enrolled in the Data Science MS.c. @ Università degli Studi di Padova
+- 👋 Hi, I’m Matteo Olivato and I'm currently enrolled in the Data Science MS.c. @ Università degli Studi di Padova
 - 👀 I’m interested in Statistical Analysis, Data Analysis and Machine Learning.
 - 🌍 Currenly based in Padua, Italy
 - 📫 You can contact me at matteo.lvt00@gmail.com
